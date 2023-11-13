@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    display: flex;
+    align-items: center;
+}
+
+button#plus{
+    display: block;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+    margin-left: 15px;
+}
+
+button#minus{
+    display: block;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+    margin-right: 15px;
+}

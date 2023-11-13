@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(36, 143, 143);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
+
+div{
+    margin-top: 15px;
+}
+
+p#return{
+    display: block;
+    margin-top: 15px;
+    font-size: 20px;
+    color: red
+}
